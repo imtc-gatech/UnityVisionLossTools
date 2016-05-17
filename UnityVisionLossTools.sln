@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5C377392-6E7C-0B6B-7A8C-8272B7420BA8}") = "UnityVisionLossTools", "Assembly-CSharp-firstpass.csproj", "{70E4BB5A-29AC-844C-F48D-01E03E86637A}"
+EndProject
+Project("{5C377392-6E7C-0B6B-7A8C-8272B7420BA8}") = "UnityVisionLossTools", "Assembly-CSharp.csproj", "{753C21DA-648C-1749-0D8C-1E152BF0F2E8}"
+EndProject
+Project("{5C377392-6E7C-0B6B-7A8C-8272B7420BA8}") = "UnityVisionLossTools", "Assembly-CSharp-Editor.csproj", "{A3BCF536-6D62-4F85-93E6-70E019B75A06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E4BB5A-29AC-844C-F48D-01E03E86637A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E4BB5A-29AC-844C-F48D-01E03E86637A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E4BB5A-29AC-844C-F48D-01E03E86637A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E4BB5A-29AC-844C-F48D-01E03E86637A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{753C21DA-648C-1749-0D8C-1E152BF0F2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753C21DA-648C-1749-0D8C-1E152BF0F2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753C21DA-648C-1749-0D8C-1E152BF0F2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753C21DA-648C-1749-0D8C-1E152BF0F2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BCF536-6D62-4F85-93E6-70E019B75A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BCF536-6D62-4F85-93E6-70E019B75A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BCF536-6D62-4F85-93E6-70E019B75A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BCF536-6D62-4F85-93E6-70E019B75A06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
